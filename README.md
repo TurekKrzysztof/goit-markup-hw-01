@@ -1,1 +1,1 @@
-# kurs
+# goit-markup-hw-01
